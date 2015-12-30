@@ -5,3 +5,6 @@ Citations are like a graph, follow the history, citations show how knowledge inh
 This project:  
 * Crawl paper-pdfs and analyse them.
 * Generate citation graph to show the relations of citations.
+
+Concept graph:  
+![citation-graph-demo](https://raw.githubusercontent.com/geekan/citation-graph/master/citation-graph.png)

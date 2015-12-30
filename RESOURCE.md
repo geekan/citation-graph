@@ -4,6 +4,10 @@
   * http://chengjun.github.io/en/2015/02/scholarNetwork/
   * https://github.com/chengjun/scholarNetwork
 
+* D3可视化
+  * http://bl.ocks.org/mbostock/950642 Labeled Force Layout的例子
+  * https://github.com/mbostock/d3/wiki/Force-Layout 相关的文档
+
 * API（非常好的API，已经抓了所有的数据）：
   * https://github.com/PLOS/rich_citations_api
   * 但这个API相关的citation graph据工作人员说已经下线了，没人维护。历时几个月给了一个api key，但也无法访问对应的服务。

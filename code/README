@@ -1,0 +1,4 @@
+1. download xmls (meta data of papers)
+2. analyse xmls and download pdfs
+3. extract main content from pdfs, and write them to databases
+4. generate citation graph.

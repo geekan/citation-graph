@@ -1,0 +1,3 @@
+csv2json nodes.csv > nodes.json
+csv2json inner_edges.csv > inner_edges.json
+csv2json edges.csv > edges.json
